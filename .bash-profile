@@ -1,0 +1,4 @@
+alias nr='npm run'
+alias ni='npm install'
+alias nui='npm uninstall'
+alias gm='git merge'
