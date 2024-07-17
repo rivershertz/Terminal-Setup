@@ -1,11 +1,15 @@
 alias nr='npm run'
 alias ni='npm install'
 alias nui='npm uninstall'
+alias pnd='pnpm dev'
+alais pni='pnpm install'
+alais pna='pnpm add'    
+alais pnr='pnpm remove' 
 alias gm='git merge'
-alias gpl='git pull'
-alias gps='git push'
+alias gpl='git pull' 
+alias gps='git push' 
 alias gs='git switch'
-alias gs-new='git switch -C'
+alias gsn='git switch -C'
 
 **** NVM setup on Mac ****
 export NVM_DIR="$HOME/.nvm"
