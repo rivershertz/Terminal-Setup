@@ -1,2 +1,2 @@
-# bash-setup
-Some aliases and stuff for bash
+# Terminal Setup
+Some aliases and stuff
